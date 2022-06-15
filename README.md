@@ -20,6 +20,7 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+the output will be in the same directory as the original video
 
 ![1](https://github.com/alex1779/MoviePy_crop_videos/blob/master/imgs/1.jpg)
 ![2](https://github.com/alex1779/MoviePy_crop_videos/blob/master/imgs/2.jpg)
